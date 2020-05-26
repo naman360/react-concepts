@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 import './index.css'
-import Form from './components/Form';
+import LifecycleA from './components/LifecycleA';
 
 const App = () => {
   return (
     <div className="App">
-     <Form />
+     <LifecycleA />
 
       
     </div>
