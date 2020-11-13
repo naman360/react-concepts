@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 import './index.css'
-import LifecycleA from './components/LifecycleA';
+import Compref1 from './components/Compref1';
 
 const App = () => {
   return (
     <div className="App">
-     <LifecycleA />
+     <Compref1/>
 
       
     </div>
